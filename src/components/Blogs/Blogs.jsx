@@ -1,6 +1,7 @@
 import { data } from "autoprefixer";
 import { useEffect, useState } from "react";
 import Blog from "../Blog/Blog";
+import PropTypes from 'prop-types';
 
  
 const Blogs = ({handleAddToBookmarks}) => {
@@ -24,5 +25,9 @@ useEffect(() =>{
         </div>
     );
 };
+
+Blogs.prototypes = {
+    handleAddToBookmarks: PropTypes.func
+}
 
 export default Blogs;

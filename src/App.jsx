@@ -7,7 +7,7 @@ import Bookmarks from './components/Bookmarks/Bookmarks'
 function App() {
  const [bookmarks, setBookmarks] = useState([]);
  const handleAddToBookmarks = blog =>{
-  console.log('bookmark adding soon')
+  console.log(blog)
  }
 
 
