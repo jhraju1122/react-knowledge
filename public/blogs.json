@@ -1,47 +1,47 @@
 [
-    {
-      "ID": "123456",
-      "Cover": "https://ibb.co/vH0y9qP",
-      "Author": "Jane Doe",
-      "Author_img": "https://example.com/author_image_1.jpg",
-      "Posted_date": "March 21, 2024",
-      "Reading_time": "10 minutes",
-      "Hashtags": ["#fiction", "#mystery", "#adventure"]
+    { "title": "lojjj fgdgdf g fgdfg fgsdgsdg gsdfg",
+      "id": "123456",
+      "cover": "https://i.ibb.co/R69vzYB/Blue-Modern-Technology-Gaming-Logo.png",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/author_image_1.jpg",
+      "posted_date": "March 21, 2024",
+      "reading_time": "10 minutes",
+      "hashtags": ["#fiction", "#mystery", "#adventure"]
     },
-    {
-      "ID": "789012",
-      "Cover": "https://ibb.co/vH0y9qP",
-      "Author_img": "https://example.com/author_image_2.jpg",
-      "Posted_date": "March 20, 2024",
-      "Reading_time": "15 minutes",
-      "Hashtags": ["#sci-fi", "#fantasy", "#space"]
+    { "title": "lojjj fgdgdf g fgdfg fgsdgsdg gsdfg",
+      "id": "789012",
+      "cover": "https://i.ibb.co/R69vzYB/Blue-Modern-Technology-Gaming-Logo.png",
+      "author_img": "https://example.com/author_image_2.jpg",
+      "posted_date": "March 20, 2024",
+      "reading_time": "15 minutes",
+      "hashtags": ["#sci-fi", "#fantasy", "#space"]
     },
-    {
-      "ID": "345678",
-      "Cover": "https://ibb.co/vH0y9qP",
-      "Author": "Alice Johnson",
-      "Author_img": "https://example.com/author_image_3.jpg",
-      "Posted_date": "March 19, 2024",
-      "Reading_time": "8 minutes",
-      "Hashtags": ["#romance", "#contemporary", "#drama"]
+    { "title": "lojjj fgdgdf g fgdfg fgsdgsdg gsdfg",
+      "id": "345678",
+      "cover": "https://i.ibb.co/R69vzYB/Blue-Modern-Technology-Gaming-Logo.png",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/author_image_3.jpg",
+      "posted_date": "March 19, 2024",
+      "reading_time": "8 minutes",
+      "hashtags": ["#romance", "#contemporary", "#drama"]
     },
-    {
-      "ID": "901234",
-      "Cover": "https://ibb.co/vH0y9qP",
-      "Author": "Michael Brown",
-      "Author_img": "https://example.com/author_image_4.jpg",
-      "Posted_date": "March 18, 2024",
-      "Reading_time": "12 minutes",
-      "Hashtags": ["#thriller", "#suspense", "#crime"]
+    { "title": "lojjj fgdgdf g fgdfg fgsdgsdg gsdfg",
+      "id": "901234",
+      "cover": "https://i.ibb.co/R69vzYB/Blue-Modern-Technology-Gaming-Logo.png",
+      "author": "Michael Brown",
+      "author_img": "https://example.com/author_image_4.jpg",
+      "posted_date": "March 18, 2024",
+      "reading_time": "12 minutes",
+      "hashtags": ["#thriller", "#suspense", "#crime"]
     },
-    {
-      "ID": "567890",
-      "Cover": "https://ibb.co/vH0y9qP",
-      "Author": "Sarah Lee",
-      "Author_img": "https://example.com/author_image_5.jpg",
-      "Posted_date": "March 17, 2024",
-      "Reading_time": "20 minutes",
-      "Hashtags": ["#horror", "#supernatural", "#ghosts"]
+    { "title": "lojjj fgdgdf g fgdfg fgsdgsdg gsdfg",
+      "id": "567890",
+      "cover": "https://i.ibb.co/R69vzYB/Blue-Modern-Technology-Gaming-Logo.png",
+      "author": "Sarah Lee",
+      "author_img": "https://example.com/author_image_5.jpg",
+      "posted_date": "March 17, 2024",
+      "reading_time": "20 minutes",
+      "hashtags": ["#horror", "#supernatural", "#ghosts"]
     }
   ]
   
